@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524960085193",
+    "project_id": "whycry-af6ce",
+    "storage_bucket": "whycry-af6ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524960085193:android:d4f083426574fb92e90918",
+        "android_client_info": {
+          "package_name": "com.example.whycry1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRfCt7Wa-jJVhLNpCp5sjc7ZjJOusuCj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
