@@ -67,7 +67,7 @@ class _RecordPageState extends State<RecordPage> {
       var request = http.MultipartRequest(
         'POST',
         Uri.parse(
-            'http://ec2-51-20-44-219.eu-north-1.compute.amazonaws.com:8080/predict'),
+            ''),
       );
       var file = await http.MultipartFile.fromPath(
         'audio',
